@@ -2,7 +2,9 @@
 
 # vgio
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)]() [![PyPI version](https://badge.fury.io/py/vgio.svg)](https://pypi.python.org/pypi/vgio) [![Build Status](https://img.shields.io/travis/joshuaskelly/vgio/master.svg?label=tests)](https://travis-ci.org/joshuaskelly/vgio) [![Documentation Status](https://readthedocs.org/projects/vgio/badge/?version=latest)](http://vgio.readthedocs.io/en/latest) [![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg)](https://discord.gg/KvwmdXA)
+![Python 3.6](https://img.shields.io/badge/python-3.6-blue?logo=python&logoColor=whitesmoke)
+ [![PyPI version](https://badge.fury.io/py/vgio.svg)](https://pypi.python.org/pypi/vgio) [![Build Status](https://img.shields.io/travis/joshuaskelly/vgio/master.svg?label=tests)](https://travis-ci.org/joshuaskelly/vgio) ![Documentation Status](https://img.shields.io/readthedocs/vgio?logo=readthedocs&logoColor=whitesmoke&link=http%3A%2F%2Fvgio.readthedocs.io%2Fen%2Flatest)
+ [![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg)](https://discord.gg/KvwmdXA)
 
 vgio is a Python package for video game file I/O
 
